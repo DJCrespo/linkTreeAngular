@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "linkTreeAngular",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

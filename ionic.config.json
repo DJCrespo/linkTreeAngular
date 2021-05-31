@@ -1,0 +1,7 @@
+{
+  "name": "linkTreeAngular",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
